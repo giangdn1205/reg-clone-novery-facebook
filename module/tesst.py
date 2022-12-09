@@ -5,6 +5,6 @@ def convert_name(name):
 	name = lower.strip().split(' ')
 	return unidecode.unidecode(''.join(name))
 
-print(convert_name("Đặng Đình Đoàn")) #dangdinhdoan
+print(convert_name("Phương Xinh Xinh")) #phuongxinhxinh
 
 
