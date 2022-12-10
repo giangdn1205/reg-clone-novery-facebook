@@ -1,2 +1,2 @@
 # reg-clone-novery-facebook
-Tool reg clone facebook novery cùi, tỷ lệ checkpoint 282 cao sắp tới update thêm proxy hehe
+Tool reg clone facebook novery - tỷ lệ checkpoint 282 còn cao, phải change ip tay liên tục. sắp tới update thêm proxy hehe
